@@ -1,5 +1,5 @@
 # 💤 Ayman's LazyVim
-
+> Note this is a git submodule for [Configs repo](https://github.com/aymanapatel/configs/tree/main/ides)
 A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
 Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
 
